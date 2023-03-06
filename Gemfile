@@ -30,6 +30,8 @@ gem "sinatra-activerecord", "~> 2.0"
 # https://github.com/ruby/rake
 gem "rake", "~> 13.0"
 
+gem 'puma', '~> 6.1'
+
 # Provides functionality to interact with a SQLite3 database
 gem "sqlite3", "~> 1.4"
 
